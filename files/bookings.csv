@@ -1,2 +1,5 @@
 booking_id,username,lodging_id,lodging_name,guests,check_in,check_out,payment_ref,status
 1,shek,4,Budget Inn - Single,1,2026-12-12,2026-12-14,123456789,Approved
+2,shek,4,Budget Inn - Single,1,2026-06-16,2026-06-20,1244444,Paid
+3,mari,1,Beach Resort - Family,4,2026-07-16,2026-07-18,1222222,Paid
+4,mgift,3,City Hotel - Standard,2,2026-05-07,2026-05-08,FFDSFF2345,Paid
